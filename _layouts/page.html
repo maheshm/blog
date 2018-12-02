@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<h1>{{ page.title | escape }}</h1>
+
+<div>
+  {% if page.date %}
+  <time class="small inline" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+  {% endif %}
+  {% if page.time_to_read %}
+  <span class="small inline read-time">{{page.time_to_read}} minute read</span>
+  {% endif %}
+</div>
+
+{{ content }}

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  {% include head.html %}
+  <body>
+    <section id="posts"  style="background-image: url('http://www.maheshm.co.in/themes/jaded/images/Header.png');background-repeat: no-repeat; background-position: -130px 0; border-radius: 10px 10px 0 0; width: 750px;">
+      <div style="line-height: 150px;"> . </div>
+    </section>
+    <section id="posts" >
+      {% include navigation.html %}
+
+      {{ content }}
+      <a href="{{ "/" | relative_url}}">
+        {% include svg/ghost_icon.svg %}
+      </a>
+    </section>
+  </body>
+</html>
