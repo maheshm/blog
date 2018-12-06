@@ -21,6 +21,7 @@ github_username: maheshm
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-sitemap
 
 # Build settings
 markdown: kramdown
@@ -30,3 +31,6 @@ theme: cypher-jekyll-theme
 
 paginate: 5
 paginate_path: "/posts/page:num/"
+
+# For sitemap
+url: "http://maheshm.co.in" # the base hostname & protocol for your site
