@@ -27,7 +27,7 @@ plugins:
 markdown: kramdown
 
 #theme: jekyll-theme-clean-blog
-theme: cypher-jekyll-theme
+#theme: cypher-jekyll-theme
 
 paginate: 5
 paginate_path: "/posts/page:num/"
