@@ -1,6 +1,6 @@
 ---
 categories: [tils]
-layout: post
+layout: page
 title: Running a background process in upstart mode in Ubuntu
 ---
 

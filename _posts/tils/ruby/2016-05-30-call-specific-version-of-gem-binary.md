@@ -1,6 +1,6 @@
 ---
 categories: [tils]
-layout: post
+layout: page
 title: Calling a binay of a specific version of a gem
 ---
 

@@ -1,6 +1,6 @@
 ---
 categories: [tils]
-layout: post
+layout: page
 title: Upload a file directly to Google Drive from a server
 ---
 

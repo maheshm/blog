@@ -1,6 +1,6 @@
 ---
 categories: [tils]
-layout: post
+layout: page
 title: Click on a tag fires 2 click events in Firefox
 ---
 
