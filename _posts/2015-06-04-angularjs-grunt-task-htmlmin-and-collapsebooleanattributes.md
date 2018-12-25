@@ -7,7 +7,7 @@ excerpt: "I wanted to insert all the partials and views as a template for my Ang
   \         conservativeCollapse: true,\r\n          collapseBooleanAttributes: true,\r\n
   \         removeCommentsFromCDATA: true,\r\n          removeOptionalTags: true\r\n
   \       },\r\n        files: [{\r"
-categories: [blog]
+categories: [tech-blog]
 layout: post
 title: AngularJS - grunt task htmlmin and collapseBooleanAttributes
 created: 1433398190

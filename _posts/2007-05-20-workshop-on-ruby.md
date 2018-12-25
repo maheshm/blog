@@ -6,7 +6,7 @@ excerpt: Hmmm.. Two days in Techno Park, Trivandrum, was quite interesting one..
   Park Center(my God, it was a beautiful building), the place were the meeting was.
   The room was called Travancore Hall. A big spacious one. The registration fee was
   250 for students, but mine was paid by SPACE (though i accidently paid it first).
-categories: [blog]
+categories: [tech-blog]
 layout: post
 title: Workshop on RUBY
 created: 1179688860

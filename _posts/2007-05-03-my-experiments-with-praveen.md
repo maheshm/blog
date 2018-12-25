@@ -6,7 +6,7 @@ excerpt: Here are some of the interesting replies from Praveen..<br /><span clas
   the same?<br />&gt;<br /><br /></span></div><div style="direction:ltr;">The original
   problem is already solved using automatic dependency<br />resolution (apt, yum ...)<br
   /></div><div style="direction:ltr;"><span class="q">
-categories: [blog]
+categories: [tech-blog]
 layout: post
 title: My experiments with Praveen!!
 created: 1178229000

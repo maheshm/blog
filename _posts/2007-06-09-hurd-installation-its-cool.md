@@ -1,7 +1,5 @@
 ---
-excerpt: '`Installing GNU/Hurd On a Linux System''<br />              ------------------------------<div
-  id="mb_0">------------------------<br />'
-categories: [blog]
+categories: [tech-blog]
 layout: post
 title: Hurd Installation... Its cool
 created: 1181406120

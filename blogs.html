@@ -3,6 +3,28 @@ layout: default
 ---
 <div class="div-with-margin">
   <a class="no-underline" href="{{ "/feed.xml" | relative_url }}">
+    {% include svg/rss_icon.svg %}
+  </a>
+  <h3 class="inline no-margin">Tech Blog</h3>
+</div>
+
+{% for category in site.categories %}
+{% if category[0] == "tech-blog" %}
+<table>
+  <tbody>
+    {% for post in category[1] %}
+    <tr>
+      <td><time class="small" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y/%m/%d" }}</time></td>
+      <td><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endif %}
+{% endfor %}
+
+<div class="div-with-margin">
+  <a class="no-underline" href="{{ "/feed.xml" | relative_url }}">
       {% include svg/rss_icon.svg %}
   </a>
   <h3 class="inline no-margin">Writing</h3>

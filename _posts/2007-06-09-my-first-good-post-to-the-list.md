@@ -1,12 +1,5 @@
 ---
-excerpt: 'I had done it long back. Forgot to put it in the blog...<br /><br />Installing
-  the usb modem provided by the <span id="st" class="st">Reliance</span> is very easy.<br
-  /><br />###    First, plug-in the modem. Check that the modem has been detected.<br
-  /><br />        cat /proc/bus/usb/devices<br /><br />    It should print something
-  like this..<br /><br />    T:  Bus=01 Lev=02 Prnt=02 Port=01 Cnt=02 Dev#= 15 Spd=12  MxCh=
-  0<br />    D:  Ver= 1.01 Cls=00(&gt;ifc ) Sub=00 Prot=00 MxPS=16 #Cfgs=  1<br />    P:  Vendor=12d1
-  ProdID=1001 Rev= 0.00        &lt;----  Required for *modprobing*'
-categories: [blog]
+categories: [tech-blog]
 layout: post
 title: My first good post to the list!!!
 created: 1181405880

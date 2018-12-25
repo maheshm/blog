@@ -1,7 +1,8 @@
 ---
-categories: [blog]
+categories: [tech-blog]
 layout: post
 title: Webpacker hot-reload (HRM) in Docker
+tags: [rails, docker]
 ---
 
 I was trying to get the HRM working in the docker environment today. What I forgot is how the webpacker try to resolv the webpacker server, which is not obvious in non-docker environment. Few of the points that I learned:
