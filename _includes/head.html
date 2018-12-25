@@ -3,10 +3,16 @@
   <meta name="viewport" content="width=device-width">
   <style>{% include main.css %}</style>
   <link href="{{ "/assets/css/fonts.css" | relative_url }}" rel="stylesheet">
+  <link href="{{ "/assets/css/emacs.css" | relative_url }}" rel="stylesheet">
   <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
   <link rel="shortcut icon" type="image/png" href="{{ "/favicon.png" | relative_url }}"/>
   {% feed_meta %}
-  <title>{{ page.title | escape }}</title>
+  {% if page.title %}
+    <title>{{ page.title | escape }}</title>
+  {% else %}
+    <title>Time and Thoughts</title>
+  {% endif %}
+
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-16105530-1"></script>

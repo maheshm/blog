@@ -17,7 +17,7 @@ This was the final configuration that I had to get it up and running:
 
 `docker-compse.yml`
 -----------
-```
+```yml
 services:
   webpacker:
     build: .
@@ -43,10 +43,10 @@ services:
 ```
 `dev_server` section in `webpacker.yml`
 ---
-```
+```yml
   dev_server:
     https: false
-    host: webpacker # <-- this is they key
+    host: webpacker # <-- this is the key
     port: 3035
     public: 0.0.0.0:3035
     hmr: true
