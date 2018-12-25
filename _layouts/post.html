@@ -2,18 +2,25 @@
 layout: default
 ---
 <header>
-  <h1>{{ page.title | escape }}</h1>
+  <h2>{{ page.title | escape }}</h2>
   <div>
     {% if page.date or page.time_to_read %}
-    <span onclick="javascript:location.href='{{ "/feed.xml" | relative_url }}'">
+      <span onclick="javascript:location.href='{{ "/feed.xml" | relative_url }}'">
       {% include svg/rss_icon.svg %}
-    </span>
+      </span>
     {% endif %}
     {% if page.date %}
       <time class="small inline" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
     {% endif %}
     {% if page.time_to_read %}
       <span class="small inline read-time">{{page.time_to_read}} minute read</span>
+    {% endif %}
+  </div>
+  <div>
+    {% if page.tags.size >0 %}
+    <span class="small inline read-time">
+      <span>#{{ page.tags | join: "</span> #<span>" }}</span>
+    </span>
     {% endif %}
   </div>
 </header>
