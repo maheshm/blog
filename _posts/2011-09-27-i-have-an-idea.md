@@ -1,7 +1,4 @@
 ---
-excerpt: "After a long time I see space to contribute back to the community. Not that
-  I didnt have anything to contribute in past, but none were related to what I was
-  working. Now there seem to be some space for me to contribute.\r\n\r"
 categories: [tech-blog]
 layout: post
 title: I have an idea!

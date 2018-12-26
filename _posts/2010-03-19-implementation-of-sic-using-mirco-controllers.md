@@ -1,8 +1,4 @@
 ---
-excerpt: "This was my mini-project. Many didnt even understand what the title meant.
-  If you are one among them here it is explained: SIC is a theoretical or hypothetical
-  computer. It is used to explain the basics of how a computer functions. My aim was
-  to implement this computer.\r\n\r"
 categories: [page, project]
 layout: page
 title: Implementation of SIC using mirco-controllers

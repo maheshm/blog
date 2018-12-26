@@ -1,8 +1,4 @@
 ---
-excerpt: "It was started as a KDE project. The Calender in KDE provides facilities
-  to add different calenders in it. Praveen and Santhosh already did some work and
-  added North Indian Calender to it. It was then understood that the base code itself
-  was buggy.\r\n\r"
 categories: [page, project]
 layout: page
 title: Implementation of Malayalam Calender

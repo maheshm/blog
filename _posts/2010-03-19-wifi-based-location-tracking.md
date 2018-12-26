@@ -1,10 +1,4 @@
 ---
-excerpt: "        The basic idea of the system is very simple. We find the distance
-  of every node in the network from two points inside the reference area. A line connecting
-  these two points is taken as the reference x-axis. Based on these two distances
-  one can apply simple Pythagoras theorem to obtain two equations with two unknown
-  variables. These two equations are solved to obtain the x co-ordinate and y-coordinate
-  of that node.\r\n\r"
 categories: [page, project]
 layout: page
 title: WiFi based location tracking
@@ -34,6 +28,7 @@ The cairo API provides operations similar to the drawing operators of PostScript
 
 The code will be soon available in my git-hub account.
 
-(Update 10-04-10)The code available isn't complete. Some shell scripts are missing. Dont bother the comments in the gui code. The code has some copy-paste from thenon-gui code. Will do the corrections.
+(Update 10-04-10)
+The code available isn't complete. Some shell scripts are missing. Dont bother the comments in the gui code. The code has some copy-paste from thenon-gui code. Will do the corrections.
 
 (C, Cairo lib, GTK)

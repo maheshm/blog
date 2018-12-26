@@ -1,19 +1,12 @@
 ---
-excerpt: "This was a paper I wrote several years ago. It was an exciting time! The
-  language used is thus a bit different! :) \r\n-----------------------------------\r\n\r\n\r\nOne
-  of the basic things accompanying any science is measurement. When we say we are
-  measuring 10cm (or anything for that sake) we are taking the basic reference, which
-  gives us the universally accepted 1m, then measure 1/10th of it and thus get the
-  desired 10cm. This is also similar in case of any measurements: measurement of time,
-  weight, intensity etc.\r\n\r"
 categories: [page, paper]
 layout: page
 title: Apparent And Real Factor And The Universe
 created: 1303237787
 ---
+
 This was a paper I wrote several years ago. It was an exciting time! The language used is thus a bit different! :)
 -----------------------------------
-
 
 One of the basic things accompanying any science is measurement. When we say we are measuring 10cm (or anything for that sake) we are taking the basic reference, which gives us the universally accepted 1m, then measure 1/10th of it and thus get the desired 10cm. This is also similar in case of any measurements: measurement of time, weight, intensity etc.
 

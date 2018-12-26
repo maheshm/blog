@@ -1,10 +1,4 @@
 ---
-excerpt: Though the day was almost boring, I got the news, that I wanted to hear for
-  past one week, which made my day. The project that I had been into has got a green
-  signal. I dont really like the service area. Its easier when you are developing
-  a product, which unlike client projects, we can decide how it should be, and make
-  it as beautiful as we want. Perhaps its my boss' influence, for I had started a
-  firm that completely into service.
 categories: [blog]
 layout: post
 title: Finally, the project is ready to go live!

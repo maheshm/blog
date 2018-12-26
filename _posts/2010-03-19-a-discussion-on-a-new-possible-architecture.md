@@ -1,10 +1,4 @@
 ---
-excerpt: "An email converstion ( 22/4/09 - 25/4/09 ):\r\n\r\nTo: Samuel Thibault\r\nIs
-  kernel an absolute requirement when we are talking about Hurd? I find that Mach
-  (or any kernel)is doing scheduling, IPC and low level IO. Scheduling, pre-emption
-  can itself be a process which is never pre-empted. This would NOT be posible with
-  the current harware architecture of course. So is the case with IPC and low level
-  IO.\r\n\r"
 categories: [page, paper]
 layout: page
 title: A Discussion on a new possible architecture

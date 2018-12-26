@@ -1,8 +1,4 @@
 ---
-excerpt: "This was my blog post related to this project.\r\n\r\nI was looking at the
-  old live cd available at http://www.superunprivileged.org the other day when the
-  thought of updating it came. They said that they had hacked the GNU Mach for creating
-  the LiveCD. The packages available in the LiveCD are too out-dated.\r\n\r"
 categories: [page, project]
 layout: page
 title: GNU HURD Live CD/ Installer
@@ -33,6 +29,7 @@ Thats it. Now everything will work fine!!! Actually now we lack a password file 
 
 I was then curious to find out whether I would be able to mount a hdd that is present in the machine that runs the LiveCD. I thus attached a hdd.img to hda to qemu. I created the chroot environment in ramdisk and ran an sh. I did the required initialisation and then created a node hd0. When I ran fdisk hd0, I found that the device was detected. I created a partition in it.
 
+```
 youpi: did you restart the kernel after partitioning ?
 maheshm: i am running live-cd!
 youpi: and so?
@@ -42,6 +39,7 @@ maheshm: i had tried with (an already) partitioned disk initially (This has been
 maheshm: same error
 maheshm: so tried fdisk
 maheshm: fdisk said unable to read /dev/hd0
+```
 
 So you have to reboot after the partitioning. The kernel re-reading the partition is just a "yet-to-be-implemented" thing. (And I hope that it will be implemented soon. That will reduce the number of restarts during installation.) Again chrooted a shell and created a directory in /media, say hdd. Then, I tried mounting it. And it worked!!
 

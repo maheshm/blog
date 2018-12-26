@@ -1,6 +1,4 @@
 ---
-excerpt: "Some of my written works shall be put here soon.\r\n\r\n<strong> Malayalam
-  </strong>\r\n\r\n<strong> English </strong>\r\n\r\n<strong> Philosophy </strong>"
 categories: [page]
 layout: page
 title: Written Works
