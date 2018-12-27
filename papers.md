@@ -2,6 +2,9 @@
 layout: default
 created: 1268977335
 ---
+
+## Papers
+
 Some works that I find interest in:
 <h3>Computer:</h3>
 1. [Viengoos](http://www.gnu.org/software/hurd/microkernel/viengoos/documentation.html)

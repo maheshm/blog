@@ -2,6 +2,9 @@
 layout: default
 created: 1268974347
 ---
+
+## Projects
+
 Some of the projects I have done:
 
 1.  [Implementation of SIC using mirco-controllers](/page/project/implementation-of-sic-using-mirco-controllers/)
