@@ -1,5 +1,5 @@
 ---
-categories: [page, paper]
+categories: [papers, computer]
 layout: page
 title: A Discussion on a new possible architecture
 created: 1269028542
@@ -15,6 +15,7 @@ I am thinking of something like this. It must be possible in years to come when 
 
 --
 Mahesh M
+
 -------------------------------------------------------------
 
 

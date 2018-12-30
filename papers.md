@@ -6,13 +6,20 @@ created: 1268977335
 ## Papers
 
 Some works that I find interest in:
-<h3>Computer:</h3>
+
+### Computer
+
 1. [Viengoos](http://www.gnu.org/software/hurd/microkernel/viengoos/documentation.html)
-2. [A discussion on a possible new architecture.](/page/paper/a-discussion-on-a-new-possible-architecture/)
+2. [A discussion on a possible new architecture.](/papers/computer/a-discussion-on-a-new-possible-architecture/)
 
-<h3>Mathematics:</h3>
+### Mathematics
 
-1. [TSP with Time Domain](/page/paper/tsp-with-time-domain/)
+1. [TSP with Time Domain](/papers/mathematics/tsp-with-time-domain/)
 
-<h3>Physics:</h3>
-1. [Apparent And Real Factor And The Universe](/page/paper/apparent-and-real-factor-and-the-universe/)
+### Physics
+
+1. [Apparent And Real Factor And The Universe](/papers/physics/apparent-and-real-factor-and-the-universe/)
+
+### GeoTech
+
+1. [Expert system for landslide prediction](/papers/geo-tech/expert-system-for-landslide-prediction)
